@@ -13,3 +13,5 @@ This way, you can enforce certain rules or validations, maintaining the integrit
 Encapsulation also helps with code organization and maintenance. By grouping related data and methods together, it becomes easier to understand and manage the code. It promotes code reusability, as objects can be used in different parts of the program without needing to know the internal implementation details.
 
 In summary, encapsulation is like putting data and methods into a box (object), controlling access to them, and providing specific ways (methods) to interact with and manipulate that data. It promotes better organization, code reusability, and helps maintain data integrity.
+
+
