@@ -1,0 +1,15 @@
+Encapsulation : Encapsulation, in beginner terms, is a concept in programming that involves bundling related data and methods (functions) together into a single unit called an object. 
+
+It aims to keep data and methods that manipulate that data together and hidden from other parts of the program.
+
+Think of encapsulation as a way of putting things in a box. The box represents an object, and inside the box, you have some data (variables) and actions (methods) that can be performed on that data. 
+
+The box acts as a protective shield, preventing direct access to the internal details of the object from outside.
+
+By encapsulating data and methods, you can control how other parts of the program interact with the object. You provide specific methods, known as "getters" and "setters," which allow other parts of the program to access or modify the data in a controlled manner.
+
+This way, you can enforce certain rules or validations, maintaining the integrity of the object's data.
+
+Encapsulation also helps with code organization and maintenance. By grouping related data and methods together, it becomes easier to understand and manage the code. It promotes code reusability, as objects can be used in different parts of the program without needing to know the internal implementation details.
+
+In summary, encapsulation is like putting data and methods into a box (object), controlling access to them, and providing specific ways (methods) to interact with and manipulate that data. It promotes better organization, code reusability, and helps maintain data integrity.
